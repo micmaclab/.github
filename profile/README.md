@@ -1,5 +1,3 @@
-# 🧬🔬🧠 Micro 2 Macro 
-
 Welcome to the Micro to Macro Imaging Lab at NYU School of Medicine, Department of Radiology and Institute for Translational Neuroscience. We study the neurobiology of development and aging, with a focus on brain networks, sex-specific risk factors, and multiscale imaging.
 
 ## 📁 Repositories
