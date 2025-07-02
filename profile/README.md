@@ -6,7 +6,7 @@ This GitHub hosts code and pipelines used in our published and ongoing projects.
 
 ## 📄 Publications
 
-Our publications can be found here [here](https://pubmed.ncbi.nlm.nih.gov/?term=Erika+Raven%5BAuthor%5D&sort=date).
+Our publications can be found [here](https://pubmed.ncbi.nlm.nih.gov/?term=Erika+Raven%5BAuthor%5D&sort=date).
 
 ## 🤝 Collaborations
 
